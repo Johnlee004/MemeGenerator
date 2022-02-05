@@ -1,13 +1,20 @@
 # MemeGenerator
 
 * [Purpose](#Purpose)
+* [Objective](#Objective)
+* [Possible Future Improvements](#Possible-Future-Improvements)
+* [Imports](#Imports)
+* [Features](#Features)
+* [SetUps](#SetUps)
+* [Credit](#Credit)
+
 # Purpose
 This program gets images links from a subchannel called r/Meme in a social media site called "reddit" then display them in the display page.
 
 # Objective
 This program was created to help myself better understand about API and the python library called "Requests", as well as a practical programming experience. This project also helped me understand about dynamic and static pagination and the solution to them.
 
-# Improvements
+# Possible Future Improvements
 * Separate the UI code and the written code into two different py files
 * Make the image display(pixel map) auto adjust size when the MainWindow changes its size
 * Make a speed limit for requesting links so that requesting large amount of links is possible with longer time.
@@ -48,7 +55,7 @@ This program was created to help myself better understand about API and the pyth
   * Randomly choose a image that was generated
     * if Repeat is false then the previous one will be delete(will never be viewed again).
 
-# SetUp
+# SetUps
 * Download **.venv** folder and **MemeGenerator.py**.
 * Start command prompt and activate the venv by executing the **activate.bat** file in **.venv\Scripts\activate.bat**
 * Run the MemeGenerator within the venv.
