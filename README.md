@@ -64,4 +64,4 @@ This program was created to help myself better understand about API and the pyth
 * Click **Next Image** to start viewing them.
 
 # Credit
-The UI was created with PyQt5 designer and the UI code was converted from it. The UI is in the repository.
+The UI was created with PyQt5 designer and the UI code was converted from it. The UI file is in the repository.
